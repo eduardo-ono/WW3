@@ -156,9 +156,9 @@
 
 &nbsp;
 
-| Set/2022 | Crise energética na Alemanha. |
+| 22/Set | Crise energética na Alemanha. |
 | :-: | :-- |
-| | [![img](https://img.youtube.com/vi/UjbdOlLlOGk/default.jpg)](https://www.youtube.com/watch?v=UjbdOlLlOGk "[Maestria nos Negócios] As PÉSSIMAS Decisões que Levaram a EUROPA para o BURACO. (13:30, YouTube, Set/2022)")
+| | [![img](https://img.youtube.com/vi/UjbdOlLlOGk/default.jpg)](https://www.youtube.com/watch?v=UjbdOlLlOGk "[Maestria nos Negócios] As PÉSSIMAS Decisões que Levaram a EUROPA para o BURACO. (13:30, YouTube, 22/Set/2022)")
 
 &nbsp;
 
