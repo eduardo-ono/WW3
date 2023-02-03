@@ -5,12 +5,32 @@
 &nbsp;
 
 ## 2023
+| 02/Fev | China continua utilizando microchips americanos para o desenvolvimento de suas armas nucleares. |
+| :-- | :-- |
+| | [![img](https://img.youtube.com/vi/Z3gsM-Jsq98/default.jpg)](https://www.youtube.com/watch?v=Z3gsM-Jsq98 "[NTD Brasil] China comunista obtém tecnologia dos EUA para aprimorar suas armas nucleares (14:02, YouTube, 02/Fev/2023)")
 
-| 29/Jan | Instalação militar do Irã é atacada por drones. |
+| 30/Jan | Zelensky pede para aliados do ocidente o envio de jatos. |
+| :-- | :-- |
+| | [![img](https://img.youtube.com/vi/45QaBT4d8xA/default.jpg)](https://www.youtube.com/watch?v=45QaBT4d8xA "[CNN] Zelensky calls on allies to send fighter jets to Ukraine (8:43, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/SNkdU0IdKuE/default.jpg)](https://www.youtube.com/watch?v=SNkdU0IdKuE "[CBS News] Why Biden doesn't want to send F-16 fighter jets to Ukraine (6:13, YouTube, 30/Jan/2023)") | 
+| | Análise |
+| | [![img](https://img.youtube.com/vi/RBNM3lbzwYQ/default.jpg)](https://www.youtube.com/watch?v=RBNM3lbzwYQ "[Canal Professor Bellei] UM CAMINHO SEM VOLTA: FRANÇA PODE ENVIAR SOLDADOS E CAÇAS PARA A UCRÂNIA (24:22, YouTube, 31/Jan/2023)")
+
+| 28/Jan | Instalação militar do Irã é atacada por drones. |
 | :-: | :-- |
 | 29/Jan/2023 | [![img](https://img.youtube.com/vi/csEB4dtnl4w/default.jpg)](https://www.youtube.com/watch?v=csEB4dtnl4w "[WION] Iran: Drone attack on military site thwarted \| World News \| English News \| International News \| WION (1:39, YouTube, 29/Jan/2023)")
+|             | Análises |
+| 30/Jan/2023 | [![img](https://img.youtube.com/vi/U9IZtPzTq00/default.jpg)](https://www.youtube.com/watch?v=U9IZtPzTq00 "[Canal Professor Bellei] COMPLEXO MILITAR DO IRÃ É ATACADO POR DRONES - TENSÃO EM ISRAEL (12:35, YouTube, 29/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/PyauFH3iMw0/default.jpg)](https://www.youtube.com/watch?v=PyauFH3iMw0 "[WION] Gravitas: Iran Military Factory Attack (5:25, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/4Shg51W11ds/default.jpg)](https://www.youtube.com/watch?v=4Shg51W11ds "[Firstpost] Iran vs Israel: Another war on the cards? \| Vantage with Palki Sharma (7:11, YouTube, 30/Jan/2023)")
+
+| 28/Jan | General da Força Aérea dos EUA, Michael A. Minihan, alerta sobre possível conflito com a China em 2025. |
+| :-: | :-- |
+| 28/Jan/2023 | [![img](https://img.youtube.com/vi/umTQD1wOGLs/default.jpg)](https://www.youtube.com/watch?v=umTQD1wOGLs "[WION] U.S. General Minihan warns of a possible conflict with China over Taiwan \| World News \| English News (1:52, YouTube, 28/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/PTqk7NdcdpY/default.jpg)](https://www.youtube.com/watch?v=PTqk7NdcdpY "[Oneindia News] US Air Force general Mike Minihan warns of possible war with China as early as 2025 \| Oneindia News (2:00, YouTube, 28/Jan/2023)") 
 | | Análises |
-| 30/Jan/2023| [![img](https://img.youtube.com/vi/PyauFH3iMw0/default.jpg)](https://www.youtube.com/watch?v=PyauFH3iMw0 "[WION] Gravitas: Iran Military Factory Attack (5:25, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/4Shg51W11ds/default.jpg)](https://www.youtube.com/watch?v=4Shg51W11ds "[Firstpost] Iran vs Israel: Another war on the cards? \| Vantage with Palki Sharma (7:11, YouTube, 30/Jan/2023)")
+| 31/Jan/2023 | [![img](https://img.youtube.com/vi/JvTP3AFovGM/default.jpg)](https://www.youtube.com/watch?v=JvTP3AFovGM "[Defense Updates] Gen. Michael A. Minihan : US-China conflict in 2025 ! (8:42, YouTube, 29/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/-W-pN7GB1B4/default.jpg)](https://www.youtube.com/watch?v=-W-pN7GB1B4 "[CBS News] Former national security adviser backs general's warning on possible war with China (8:29, YouTube, 31/Jan/2023)")
+
+| 24/Jan | Coalizão da OTAN decide enviar tanques para a Ucrânia. |
+| :-- | :-- |
+| | Análise |
+| 01/Fev/2023 | [![img](https://img.youtube.com/vi/fiVg2gRzl8Y/default.jpg)](https://www.youtube.com/watch?v=fiVg2gRzl8Y "[Geoforça Brasil] O envio de Tanques para a Ucr4ni4 pode 4ME4Ç4R a Rússia? \| Cortes do Geoforça (15:59, YouTube, 31/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/uUEGfT7GjTc/default.jpg)](https://www.youtube.com/watch?v=uUEGfT7GjTc "[WION] Gravitas LIVE \| Does Ukraine know how to use Western Tanks? (47:25, YouTube, 26/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/sDWJGTndxww/default.jpg)](https://www.youtube.com/watch?v=sDWJGTndxww "[Rogério Anitablian] UCRÂNIA: TANQUES ALEMAĒS A CAMINHO DE KIEV (42:07, YouTube, 01/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/PAyOClDc0ko/default.jpg)](https://www.youtube.com/watch?v=PAyOClDc0ko "[WION] US to send new $2.2 billion weapon aid with longer-range weapons \| Latest English News \| WION Pulse (9:05, YouTube, 01/Fev/2023)")
 
 &nbsp;
 
@@ -84,7 +104,11 @@
 
 ## 2014
 
-* Rússia invade e anexa a Criméia.
+| 02/Mar/2014 | Rússia invade e anexa a Criméia. |
+| :-- | :-- |
+| 02/Mar/2014 | [![img](https://img.youtube.com/vi/YR_cmn2qeck/default.jpg)](https://www.youtube.com/watch?v=YR_cmn2qeck "[ABC News] Russian Forces Officially Enter the Crimea Region of Ukraine (4:42, YouTube, 02/Mar/2014)")
+| | Análise Estratégica |
+| 18/Mar/2019 | [![img](https://img.youtube.com/vi/7DISoeWEefI/default.jpg)](https://www.youtube.com/watch?v=7DISoeWEefI "[Al Jazeera English] O que a Rússia ganhou com a anexação da Crimeia? (23:55, YouTube, 18/Mar/2019)")
 
 &nbsp;
 
