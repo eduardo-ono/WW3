@@ -55,18 +55,19 @@
 
 &nbsp;
 
-| 24/Jan | Coalizão da OTAN decide enviar tanques para a Ucrânia. |
-| :-: | :-- |
-| | Análise |
-| 01/Fev/2023 | [![img](https://img.youtube.com/vi/fiVg2gRzl8Y/default.jpg)](https://www.youtube.com/watch?v=fiVg2gRzl8Y "[Geoforça Brasil] O envio de Tanques para a Ucr4ni4 pode 4ME4Ç4R a Rússia? \| Cortes do Geoforça (15:59, YouTube, 31/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/uUEGfT7GjTc/default.jpg)](https://www.youtube.com/watch?v=uUEGfT7GjTc "[WION] Gravitas LIVE \| Does Ukraine know how to use Western Tanks? (47:25, YouTube, 26/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/sDWJGTndxww/default.jpg)](https://www.youtube.com/watch?v=sDWJGTndxww "[Rogério Anitablian] UCRÂNIA: TANQUES ALEMAĒS A CAMINHO DE KIEV (42:07, YouTube, 01/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/PAyOClDc0ko/default.jpg)](https://www.youtube.com/watch?v=PAyOClDc0ko "[WION] US to send new $2.2 billion weapon aid with longer-range weapons \| Latest English News \| WION Pulse (9:05, YouTube, 01/Fev/2023)")
-
-&nbsp;
-
 | 25/Jan | Ucrânia admite perda da cidade de Soledar para as forças russas. |
 | :-: | :-- |
 | | [![img](https://img.youtube.com/vi/_uvfRuHN6yM/default.jpg)](https://www.youtube.com/watch?v=_uvfRuHN6yM "[Euronews em Português] Ucrânia admite perda da cidade de Soledar para as forças russas (1:00, YouTube, 25/Jan/2023)")
 | | Análises
 | 13/Jan/2023 | [![img](https://img.youtube.com/vi/PxK1fFE4fvA/default.jpg)](https://www.youtube.com/watch?v=PxK1fFE4fvA "[ARTE DA GUERRA] Guerra da Ucrânia: Rússia avança sobre Soledar. (1:06:24, YouTube, 10/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/PTU_83Au_lI/default.jpg)](https://www.youtube.com/watch?v=PTU_83Au_lI "[ARTE DA GUERRA] Ucrânia: Rússia tomou Soledar e Ocidente tem medo de admitir. (1:25:35, YouTube, 13/Jan/2023)")
+
+&nbsp;
+
+| 24/Jan | Coalizão da OTAN decide enviar tanques de guerra (MBT) para a Ucrânia. |
+| :-: | :-- |
+| | [![img](https://img.youtube.com/vi/dnj-WWy3vWg/default.jpg)](https://www.youtube.com/watch?v=dnj-WWy3vWg "[DW Brasil] O Ocidente está entrando de vez na guerra na Ucrânia? (6:14, YouTube, 24/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/BCAIrOPjKdU/default.jpg)](https://www.youtube.com/watch?v=BCAIrOPjKdU "[AFP Português] Biden promete 31 tanques Abrams a Ucrânia \| AFP (1:05, YouTube, 25/Jan/2023)")
+| | Análises
+| 01/Fev/2023 | [![img](https://img.youtube.com/vi/fiVg2gRzl8Y/default.jpg)](https://www.youtube.com/watch?v=fiVg2gRzl8Y "[Geoforça Brasil] O envio de Tanques para a Ucr4ni4 pode 4ME4Ç4R a Rússia? \| Cortes do Geoforça (15:59, YouTube, 31/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/uUEGfT7GjTc/default.jpg)](https://www.youtube.com/watch?v=uUEGfT7GjTc "[WION] Gravitas LIVE \| Does Ukraine know how to use Western Tanks? (47:25, YouTube, 26/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/sDWJGTndxww/default.jpg)](https://www.youtube.com/watch?v=sDWJGTndxww "[Rogério Anitablian] UCRÂNIA: TANQUES ALEMAĒS A CAMINHO DE KIEV (42:07, YouTube, 01/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/PAyOClDc0ko/default.jpg)](https://www.youtube.com/watch?v=PAyOClDc0ko "[WION] US to send new $2.2 billion weapon aid with longer-range weapons \| Latest English News \| WION Pulse (9:05, YouTube, 01/Fev/2023)")
 
 &nbsp;
 
