@@ -4,6 +4,10 @@
 
 &nbsp;
 
+Web Version: https://eduardo-ono.github.io/WW3/
+
+&nbsp;
+
 ## 2023
 
 | 02/Fev | China continua utilizando microchips americanos para o desenvolvimento de suas armas nucleares. |
