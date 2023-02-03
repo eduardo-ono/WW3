@@ -5,6 +5,7 @@
 &nbsp;
 
 ## 2023
+
 | 02/Fev | China continua utilizando microchips americanos para o desenvolvimento de suas armas nucleares. |
 | :-- | :-- |
 | | [![img](https://img.youtube.com/vi/Z3gsM-Jsq98/default.jpg)](https://www.youtube.com/watch?v=Z3gsM-Jsq98 "[NTD Brasil] China comunista obtém tecnologia dos EUA para aprimorar suas armas nucleares (14:02, YouTube, 02/Fev/2023)")
