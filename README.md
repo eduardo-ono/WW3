@@ -84,8 +84,8 @@
     </summary><br>
 
 | | [![img](https://img.youtube.com/vi/45QaBT4d8xA/default.jpg)](https://www.youtube.com/watch?v=45QaBT4d8xA "[CNN] Zelensky calls on allies to send fighter jets to Ukraine (8:43, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/7s2IFvJVT3s/default.jpg)](https://www.youtube.com/watch?v=7s2IFvJVT3s "[CBC News] Ukraine asks western partners to provide fighter jets (6:48, YouTube, 30/Jan/2023)")
-| Análises<br>31/Jan/2023 | [![img](https://img.youtube.com/vi/SNkdU0IdKuE/default.jpg)](https://www.youtube.com/watch?v=SNkdU0IdKuE "[CBS News] Why Biden doesn't want to send F-16 fighter jets to Ukraine (6:13, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/RBNM3lbzwYQ/default.jpg)](https://www.youtube.com/watch?v=RBNM3lbzwYQ "[Canal Professor Bellei] UM CAMINHO SEM VOLTA: FRANÇA PODE ENVIAR SOLDADOS E CAÇAS PARA A UCRÂNIA (24:22, YouTube, 31/Jan/2023)")
 | :-: | :-- |
+| Análises<br>31/Jan/2023 | [![img](https://img.youtube.com/vi/SNkdU0IdKuE/default.jpg)](https://www.youtube.com/watch?v=SNkdU0IdKuE "[CBS News] Why Biden doesn't want to send F-16 fighter jets to Ukraine (6:13, YouTube, 30/Jan/2023)") &nbsp; [![img](https://img.youtube.com/vi/RBNM3lbzwYQ/default.jpg)](https://www.youtube.com/watch?v=RBNM3lbzwYQ "[Canal Professor Bellei] UM CAMINHO SEM VOLTA: FRANÇA PODE ENVIAR SOLDADOS E CAÇAS PARA A UCRÂNIA (24:22, YouTube, 31/Jan/2023)")
 
 &nbsp;
 </details>
