@@ -22,8 +22,12 @@
         [10/Fev] China recebe equipamentos litográficos da empresa Holandesa ASML, maior fornecedora global de sistemas de litografia para a indústria de semicondutores.
     </summary><br>
 
+<!--- {{{ -->
+
 | | [![img](https://img.youtube.com/vi/TjpQgJltUqw/default.jpg)](https://www.youtube.com/watch?v=TjpQgJltUqw "[China Focus-CNF] Accelerated delivery of lithography machines to China (9:22, YouTube, 10/Fev/2023)")
 | :-: | :-- |
+
+<!--- }}} -->
 
 &nbsp;
 </details>
@@ -47,7 +51,7 @@
 | | [![img](https://img.youtube.com/vi/fC0Xe7t3B88/default.jpg)](https://www.youtube.com/watch?v=fC0Xe7t3B88 "[AFP Português] Pentágono rastreia balão espião chinês sobre os EUA \| AFP (1:08, YouTube, 02/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/1Xl555fuEJY/default.jpg)](https://www.youtube.com/watch?v=1Xl555fuEJY "[BM&C NEWS] URGENTE: CHINA RESPONDE EUA E AFIRMA QUE BALÃO SOBRE O PAÍS É PARA PESQUISA METEREOLÓGICA (1:21, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/vyNsGJgv2j0/default.jpg)](https://www.youtube.com/watch?v=vyNsGJgv2j0 "[Fox News] Chinese spy balloon shot down over the Atlantic Ocean (4:49, YouTube, 04/Fev/2023)")
 | :-- | :-- |
 | Análises<br>04/02/2023 | [![img](https://img.youtube.com/vi/rcaOtzTvKlA/default.jpg)](https://www.youtube.com/watch?v=rcaOtzTvKlA "[Hoje no Mundo Militar] Balão espião chinês sobre base norte-americana de mísseis nucleares? (7:04, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Rr3GTXXmN2g/default.jpg)](https://www.youtube.com/watch?v=Rr3GTXXmN2g "[WION] Gravitas LIVE: 'Chinese Spy Balloon' spotted over U.S. \| Is China's espionage entering next phase? (45:32, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/i0CJrznP7WQ/default.jpg)](https://www.youtube.com/watch?v=i0CJrznP7WQ "[ARTE DA GUERRA] O erro fundamental dos Estados Unidos em relação à China. (1:33:00, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/3vZBnlDTor0/default.jpg)](https://www.youtube.com/watch?v=3vZBnlDTor0 "[ARTE DA GUERRA] Segundo balão espião chinês aparece na América Latina. (1:31:35, YouTube, 04/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/TT4IAgczaWo/default.jpg)](https://www.youtube.com/watch?v=TT4IAgczaWo "[DW News] US shoots down Chinese spy balloon \| DW News (5:50, YouTube, 04/Fev/2023)")
-| Repercussões<br>11/Fev/2023 | [![img](https://img.youtube.com/vi/BGiY_qPoNzI/default.jpg)](https://www.youtube.com/watch?v=BGiY_qPoNzI "[China in Focus - NTD] 2nd High-Altitude Object Shot Down Over Alaska \| China In Focus (18:34, YouTube, 11/Fev/2023)") &nbsp;
+| Repercussões<br>11/Fev/2023 | [![img](https://img.youtube.com/vi/BGiY_qPoNzI/default.jpg)](https://www.youtube.com/watch?v=BGiY_qPoNzI "[China in Focus - NTD] 2nd High-Altitude Object Shot Down Over Alaska \| China In Focus (18:34, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Kj6pzqGyDZo/default.jpg)](https://www.youtube.com/watch?v=Kj6pzqGyDZo "[NTD Brasil] EUA derrubam outro objeto voador: tensões com China crescem após balão (8:48, YouTube, 11/Fev/2023)") &nbsp;
 
 &nbsp;
 </details>
@@ -281,6 +285,7 @@
 | | [![img](https://img.youtube.com/vi/2M8G8b_DcxE/default.jpg)](https://www.youtube.com/watch?v=2M8G8b_DcxE "[AFP Português] Explosões foram registradas antes de vazamentos de gás \| AFP (2:13, YouTube, Set/2022)")
 | :-: | :-- |
 | Análises<br>04/Fev/2023 | [![img](https://img.youtube.com/vi/h6iovqU61Bw/default.jpg)](https://www.youtube.com/watch?v=h6iovqU61Bw "[Hoje no Mundo Militar] A quem interessa a destruição do gasoduto russo Nord Stream? (9:28, YouTube, Set/2022)") &nbsp; [![img](https://img.youtube.com/vi/wgb5X06uzp0/default.jpg)](https://www.youtube.com/watch?v=wgb5X06uzp0 "[caio o alemao] POR QUE A GENTE AINDA NAO SABE ??? QUEM EXPLODIU OS GASODUTOS NORD STREAM ??? (8:15, YouTube, 04/Fev/2023)")
+| Repercussões | [![img](https://img.youtube.com/vi/K1SIr7-HxdA/default.jpg)](https://www.youtube.com/watch?v=K1SIr7-HxdA "[Redacted] How America Blew Up The Nord Stream Pipeline | Redacted with Natali and Clayton Morris (29:08, YouTube, 08/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/nOBi5XSp6rA/default.jpg)](https://www.youtube.com/watch?v=nOBi5XSp6rA "[WION] Russia: US should pay compensation to countries affected \| Latest World News \| Top News \| WION (3:17, YouTube, 09/Fev/2023)") &nbsp;
 
 &nbsp;
 </details>
