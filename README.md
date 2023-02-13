@@ -19,6 +19,48 @@
 
 <details>
     <summary>
+        [12/Fev] Força Aérea dos EUA abate o terceiro "objeto" em três dias na fronteira com o Canadá.
+    </summary><br>
+
+<!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/RVh0J1RMjsM/default.jpg)](https://www.youtube.com/watch?v=RVh0J1RMjsM "[CNN Brasil] Estados Unidos, China e Uruguai registram objetos voadores não identificados \| CNN PRIME TIME (22:02, YouTube, 12/Fev/2023)") &nbsp;
+| :-: | :-- |
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
+        [11/Fev] Um segundo objeto voador não identificado é abatido no Canadá.
+    </summary><br>
+
+<!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/CRxl2R7aqKo/default.jpg)](https://www.youtube.com/watch?v=CRxl2R7aqKo "[CBS Sunday Morning] Another flying object shot down over Yukon territory (2:23, YouTube, 12/Fev/2023)") &nbsp;
+| :-: | :-- |
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
+        [10/Fev] Após balão chinês ser abatido, um objeto voador não identificado é abatido na costa do Alasca pela Força Aérea dos EUA.
+    </summary><br>
+
+<!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/-BwQ0gpW0Ew/default.jpg)](https://www.youtube.com/watch?v=-BwQ0gpW0Ew "[CNN] Hear what pilots said about mysterious object shot down near Alaska (6:22, YouTube, 12/Fev/2023)") &nbsp;
+| :-: | :-- |
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
         [10/Fev] China recebe equipamentos litográficos da empresa Holandesa ASML, maior fornecedora global de sistemas de litografia para a indústria de semicondutores.
     </summary><br>
 
@@ -26,22 +68,25 @@
 
 | | [![img](https://img.youtube.com/vi/TjpQgJltUqw/default.jpg)](https://www.youtube.com/watch?v=TjpQgJltUqw "[China Focus-CNF] Accelerated delivery of lithography machines to China (9:22, YouTube, 10/Fev/2023)")
 | :-: | :-- |
-
-<!--- }}} -->
+| Repercussões | [![img](https://img.youtube.com/vi/7vlnwKMHeSA/default.jpg)](https://www.youtube.com/watch?v=7vlnwKMHeSA "[China Focus-CNF] Locking up China's 14nm chip technology? (9:24, YouTube, 12/Fev/2023)") &nbsp;
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
         [09/Fev] Volodymir Zelensky se reúne com líderes Europeus e pede caças e mais armamentos.
     </summary><br>
 
+<!--- {{{ -->
+
 | | [![img](https://img.youtube.com/vi/BpKB0n4Xdug/default.jpg)](https://www.youtube.com/watch?v=BpKB0n4Xdug "[CNN Brasil] Zelensky se reúne com líderes europeus e pede ajuda à Ucrânia \| CNN PRIME TIME (3:24, YouTube, 08/Fev/2023)") &nbsp;
 | :-- | :-- |
 
 <br>
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -317,22 +362,30 @@
         [07/Jul] Boris Johnson, primeiro-ministro do Reino Unido, anuncia sua renúncia.
     </summary><br>
 
+<!--- {{{ -->
+
 | | [![img](https://img.youtube.com/vi/DD93FcN1qNQ/default.jpg)](https://www.youtube.com/watch?v=DD93FcN1qNQ "[CNN Brasil] Boris Johnson renuncia como primeiro-ministro do Reino Unido \| NOVO DIA (6:15, YouTube, 07/Jul/2022)")
 | :-: | :-- |
 
 &nbsp;
 </details>
 
+<!--- }}} -->
+
 <details>
     <summary>
         <strong>[24/Fev] Rússia invade a Ucrânia.</strong>
     </summary><br>
+
+<!--- {{{ -->
 
 | | [![img](https://img.youtube.com/vi/cHpMz4srpbE/default.jpg)](https://www.youtube.com/watch?v=cHpMz4srpbE "[euronews (em português)] Acompanhe a invasão russa da Ucrânia (11:54:59, YouTube, Fev/2022)") |
 | :-- | :-- |
 
 &nbsp;
 </details>
+
+<!--- }}} -->
 
 ## 2019
 
@@ -345,10 +398,16 @@
         <strong>[02/Mar] Rússia invade e anexa a Criméia.</strong>
     </summary><br>
 
+<!--- {{{ -->
+
 | | [![img](https://img.youtube.com/vi/YR_cmn2qeck/default.jpg)](https://www.youtube.com/watch?v=YR_cmn2qeck "[ABC News] Russian Forces Officially Enter the Crimea Region of Ukraine (4:42, YouTube, 02/Mar/2014)")
 | :-: | :-- |
 | Análises<br>18/Mar/2019 | [![img](https://img.youtube.com/vi/7DISoeWEefI/default.jpg)](https://www.youtube.com/watch?v=7DISoeWEefI "[Al Jazeera English] O que a Rússia ganhou com a anexação da Crimeia? (23:55, YouTube, 18/Mar/2019)")
 
 &nbsp;
 </details>
+
+<!--- }}} -->
+
+&nbsp;
 
