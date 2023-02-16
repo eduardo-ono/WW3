@@ -22,13 +22,13 @@
         [15/Fev] Nicola Sturgeon, primeira ministra da Escócia, anuncia sua renuncia após oito anos de mandato.
     </summary><br>
 
- <!--- {{{ -->
+ <!-- {{{ -->
 
 | | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises |
 
-<!--- }}} -->
+<!-- }}} -->
 
 &nbsp;
 </details>
