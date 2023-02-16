@@ -4,10 +4,6 @@
 
 &nbsp;
 
-<p align="center">Web Version: <a href="https://eduardo-ono.github.io/WW3/">https://eduardo-ono.github.io/WW3/</a></p>
-
-&nbsp;
-
 <p align="center">
     <a href="https://www.nationsonline.org/maps/Ukraine-Map-L.jpg" target="_blank"><img src="https://www.nationsonline.org/maps/Ukraine-Map-L.jpg" alt="img" width="360px"/></a><br>
     <sub>Fonte: https://www.nationsonline.org/oneworld/map/ukraine-political-map.htm</sub>
@@ -22,13 +18,13 @@
         [15/Fev] Nicola Sturgeon, primeira ministra da Escócia, anuncia sua renuncia após oito anos de mandato.
     </summary><br>
 
- <!-- {{{ -->
+<!--- {{{ --->
 
 | | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises |
 
-<!-- }}} -->
+<!--- }}} --->
 
 &nbsp;
 </details>
@@ -38,7 +34,7 @@
         [13/Fev] Embaixada dos EUA na Rússia pede para cidadãos americanos saírem imediatamente do país.
     </summary><br>
 
- <!--- {{{ -->
+ <!-- {{{ -->
 
 | | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[] (2:05, YouTube, 13/Fev/2023)") &nbsp;
 | :-: | :-- |
@@ -46,7 +42,7 @@
 
 &nbsp;
 </details>
-<!--- }}} -->
+<!-- }}} -->
 
 <details>
     <summary>
