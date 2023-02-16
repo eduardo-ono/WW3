@@ -19,6 +19,52 @@
 
 <details>
     <summary>
+        [15/Fev] Nicola Sturgeon, primeira ministra da Escócia, anuncia sua renuncia após oito anos de mandato.
+    </summary><br>
+
+ <!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
+| :-: | :-- |
+| Análises |
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
+        [13/Fev] Embaixada dos EUA na Rússia pede para cidadãos americanos saírem imediatamente do país.
+    </summary><br>
+
+ <!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[] (2:05, YouTube, 13/Fev/2023)") &nbsp;
+| :-: | :-- |
+| Análises | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[$] (10:25, YouTube, 13/Fev/2023)") &nbsp;
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
+        [13/Fev] Secretário-geral da OTAN afirma que a atual produção de munição dos membros da OTAN não é suficiente para atender às demandas da Ucrânia e sugere um aumento da produção.
+    </summary><br>
+
+<!--- {{{ -->
+
+| | [![img](https://img.youtube.com/vi/fyajz2aBjFE/default.jpg)](https://www.youtube.com/watch?v=fyajz2aBjFE "[Euronews em Português] Stoltenberg diz que nova ofensiva russa na Ucrânia já começou (2:05, YouTube, 13/Fev/2023)") &nbsp;
+| :-: | :-- |
+| Análises | [![img](https://img.youtube.com/vi/0mC8eGKHLtg/default.jpg)](https://www.youtube.com/watch?v=0mC8eGKHLtg "[caio o alemao] COMANDANTE SUPREMO DA OTAN : PERDAS NA UCRANIA ALEM DE NOSSAS EXPECTATIVAS !!!! (10:25, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/yaTn3lTrZ0w/default.jpg)](https://www.youtube.com/watch?v=yaTn3lTrZ0w "[ARTE DA GUERRA] Guerra na Ucrânia: munição é calcanhar de Aquiles da OTAN. (1:06:49, YouTube, 14/02/2023)") &nbsp;
+
+
+&nbsp;
+</details>
+<!--- }}} -->
+
+<details>
+    <summary>
         [12/Fev] Força Aérea dos EUA abate o terceiro "objeto" em três dias na fronteira com o Canadá.
     </summary><br>
 
@@ -26,6 +72,7 @@
 
 | | [![img](https://img.youtube.com/vi/RVh0J1RMjsM/default.jpg)](https://www.youtube.com/watch?v=RVh0J1RMjsM "[CNN Brasil] Estados Unidos, China e Uruguai registram objetos voadores não identificados \| CNN PRIME TIME (22:02, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
+| Repercussões | [![img](https://img.youtube.com/vi/9dwoqMjfoV8/default.jpg)](https://www.youtube.com/watch?v=9dwoqMjfoV8 "[CNN Brasil] Novos objetos abatidos têm formato diferente dos balões, detalha professor \| NOVO DIA (11:23, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/BYGckerOWzc/default.jpg)](https://www.youtube.com/watch?v=BYGckerOWzc "[SpaceToday] ATUALIZAÇÕES SOBRE OS OVNIS!!! GUERRA DE BALÕES ENTRE EUA E A CHINA PODEM EXPLICAR!!! (19:43, YouTube, 14/Fev/2023)") &nbsp;
 
 &nbsp;
 </details>
@@ -47,7 +94,7 @@
 
 <details>
     <summary>
-        [10/Fev] Após balão chinês ser abatido, um objeto voador não identificado é abatido na costa do Alasca pela Força Aérea dos EUA.
+        [10/Fev] Após balão chinês ser abatido, um objeto voador não identificado foi detectado no dia 08e, no dia 10, abatido na costa do Alasca por um F-22 da Força Aérea dos EUA.
     </summary><br>
 
 <!--- {{{ -->
