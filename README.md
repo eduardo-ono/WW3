@@ -19,11 +19,9 @@
     </summary><br>
 
 <!--- {{{ --->
-
 | | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises |
-
 <!--- }}} --->
 
 &nbsp;
@@ -35,14 +33,13 @@
     </summary><br>
 
  <!-- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[] (2:05, YouTube, 13/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[$] (10:25, YouTube, 13/Fev/2023)") &nbsp;
+<!-- }}} -->
 
 &nbsp;
 </details>
-<!-- }}} -->
 
 <details>
     <summary>
@@ -50,30 +47,27 @@
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/fyajz2aBjFE/default.jpg)](https://www.youtube.com/watch?v=fyajz2aBjFE "[Euronews em Português] Stoltenberg diz que nova ofensiva russa na Ucrânia já começou (2:05, YouTube, 13/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises | [![img](https://img.youtube.com/vi/0mC8eGKHLtg/default.jpg)](https://www.youtube.com/watch?v=0mC8eGKHLtg "[caio o alemao] COMANDANTE SUPREMO DA OTAN : PERDAS NA UCRANIA ALEM DE NOSSAS EXPECTATIVAS !!!! (10:25, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/yaTn3lTrZ0w/default.jpg)](https://www.youtube.com/watch?v=yaTn3lTrZ0w "[ARTE DA GUERRA] Guerra na Ucrânia: munição é calcanhar de Aquiles da OTAN. (1:06:49, YouTube, 14/02/2023)") &nbsp;
-
+<!--- }}} -->
 
 &nbsp;
 </details>
-<!--- }}} -->
 
 <details>
     <summary>
-        [12/Fev] Força Aérea dos EUA abate o terceiro "objeto" em três dias na fronteira com o Canadá.
+        [12/Fev] Um terceiro objeto voador não identificado é abatido pela Força Aérea dos EUA na fronteira com o Canadá.
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/RVh0J1RMjsM/default.jpg)](https://www.youtube.com/watch?v=RVh0J1RMjsM "[CNN Brasil] Estados Unidos, China e Uruguai registram objetos voadores não identificados \| CNN PRIME TIME (22:02, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
-| Repercussões | [![img](https://img.youtube.com/vi/9dwoqMjfoV8/default.jpg)](https://www.youtube.com/watch?v=9dwoqMjfoV8 "[CNN Brasil] Novos objetos abatidos têm formato diferente dos balões, detalha professor \| NOVO DIA (11:23, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/BYGckerOWzc/default.jpg)](https://www.youtube.com/watch?v=BYGckerOWzc "[SpaceToday] ATUALIZAÇÕES SOBRE OS OVNIS!!! GUERRA DE BALÕES ENTRE EUA E A CHINA PODEM EXPLICAR!!! (19:43, YouTube, 14/Fev/2023)") &nbsp;
+| Repercussões | [![img](https://img.youtube.com/vi/9dwoqMjfoV8/default.jpg)](https://www.youtube.com/watch?v=9dwoqMjfoV8 "[CNN Brasil] Novos objetos abatidos têm formato diferente dos balões, detalha professor \| NOVO DIA (11:23, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/BYGckerOWzc/default.jpg)](https://www.youtube.com/watch?v=BYGckerOWzc "[SpaceToday] ATUALIZAÇÕES SOBRE OS OVNIS!!! GUERRA DE BALÕES ENTRE EUA E A CHINA PODEM EXPLICAR!!! (19:43, YouTube, 14/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/AdbM1vVUSAA/default.jpg)](https://www.youtube.com/watch?v=AdbM1vVUSAA "[Fox News] Biden is completely ill prepared and unwilling to act to protect America: Monica Crowley (10:51, YouTube, 18/Fev/2023)") &nbsp;
+<!--- }}} -->
 
 &nbsp;
 </details>
-<!--- }}} -->
 
 <details>
     <summary>
@@ -81,27 +75,25 @@
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/CRxl2R7aqKo/default.jpg)](https://www.youtube.com/watch?v=CRxl2R7aqKo "[CBS Sunday Morning] Another flying object shot down over Yukon territory (2:23, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
+<!--- }}} -->
 
 &nbsp;
 </details>
-<!--- }}} -->
 
 <details>
     <summary>
-        [10/Fev] Após balão chinês ser abatido, um objeto voador não identificado foi detectado no dia 08e, no dia 10, abatido na costa do Alasca por um F-22 da Força Aérea dos EUA.
+        [10/Fev] Após balão chinês ser abatido, um objeto voador não identificado foi detectado no dia 08 e, no dia 10, abatido na costa do Alasca por um F-22 da Força Aérea dos EUA.
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/-BwQ0gpW0Ew/default.jpg)](https://www.youtube.com/watch?v=-BwQ0gpW0Ew "[CNN] Hear what pilots said about mysterious object shot down near Alaska (6:22, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
+<!--- }}} -->
 
 &nbsp;
 </details>
-<!--- }}} -->
 
 <details>
     <summary>
@@ -109,14 +101,13 @@
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/TjpQgJltUqw/default.jpg)](https://www.youtube.com/watch?v=TjpQgJltUqw "[China Focus-CNF] Accelerated delivery of lithography machines to China (9:22, YouTube, 10/Fev/2023)")
 | :-: | :-- |
 | Repercussões | [![img](https://img.youtube.com/vi/7vlnwKMHeSA/default.jpg)](https://www.youtube.com/watch?v=7vlnwKMHeSA "[China Focus-CNF] Locking up China's 14nm chip technology? (9:24, YouTube, 12/Fev/2023)") &nbsp;
+<!--- }}} -->
 
 &nbsp;
 </details>
-<!--- }}} -->
 
 <details>
     <summary>
@@ -124,23 +115,25 @@
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/BpKB0n4Xdug/default.jpg)](https://www.youtube.com/watch?v=BpKB0n4Xdug "[CNN Brasil] Zelensky se reúne com líderes europeus e pede ajuda à Ucrânia \| CNN PRIME TIME (3:24, YouTube, 08/Fev/2023)") &nbsp;
 | :-- | :-- |
-
-<br>
-</details>
 <!--- }}} -->
+
+&nbsp;
+</details>
 
 <details>
     <summary>
         [02/Fev] Balão chinês suspeito de espionagem sobrevoa os Estados Unidos.
     </summary><br>
 
+
+<!--- {{{ -->
 | | [![img](https://img.youtube.com/vi/fC0Xe7t3B88/default.jpg)](https://www.youtube.com/watch?v=fC0Xe7t3B88 "[AFP Português] Pentágono rastreia balão espião chinês sobre os EUA \| AFP (1:08, YouTube, 02/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/1Xl555fuEJY/default.jpg)](https://www.youtube.com/watch?v=1Xl555fuEJY "[BM&C NEWS] URGENTE: CHINA RESPONDE EUA E AFIRMA QUE BALÃO SOBRE O PAÍS É PARA PESQUISA METEREOLÓGICA (1:21, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/vyNsGJgv2j0/default.jpg)](https://www.youtube.com/watch?v=vyNsGJgv2j0 "[Fox News] Chinese spy balloon shot down over the Atlantic Ocean (4:49, YouTube, 04/Fev/2023)")
 | :-- | :-- |
 | Análises<br>04/02/2023 | [![img](https://img.youtube.com/vi/rcaOtzTvKlA/default.jpg)](https://www.youtube.com/watch?v=rcaOtzTvKlA "[Hoje no Mundo Militar] Balão espião chinês sobre base norte-americana de mísseis nucleares? (7:04, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Rr3GTXXmN2g/default.jpg)](https://www.youtube.com/watch?v=Rr3GTXXmN2g "[WION] Gravitas LIVE: 'Chinese Spy Balloon' spotted over U.S. \| Is China's espionage entering next phase? (45:32, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/i0CJrznP7WQ/default.jpg)](https://www.youtube.com/watch?v=i0CJrznP7WQ "[ARTE DA GUERRA] O erro fundamental dos Estados Unidos em relação à China. (1:33:00, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/3vZBnlDTor0/default.jpg)](https://www.youtube.com/watch?v=3vZBnlDTor0 "[ARTE DA GUERRA] Segundo balão espião chinês aparece na América Latina. (1:31:35, YouTube, 04/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/TT4IAgczaWo/default.jpg)](https://www.youtube.com/watch?v=TT4IAgczaWo "[DW News] US shoots down Chinese spy balloon \| DW News (5:50, YouTube, 04/Fev/2023)")
-| Repercussões<br>11/Fev/2023 | [![img](https://img.youtube.com/vi/BGiY_qPoNzI/default.jpg)](https://www.youtube.com/watch?v=BGiY_qPoNzI "[China in Focus - NTD] 2nd High-Altitude Object Shot Down Over Alaska \| China In Focus (18:34, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Kj6pzqGyDZo/default.jpg)](https://www.youtube.com/watch?v=Kj6pzqGyDZo "[NTD Brasil] EUA derrubam outro objeto voador: tensões com China crescem após balão (8:48, YouTube, 11/Fev/2023)") &nbsp;
+| Repercussões<br>18/Fev/2023 | [![img](https://img.youtube.com/vi/BGiY_qPoNzI/default.jpg)](https://www.youtube.com/watch?v=BGiY_qPoNzI "[China in Focus - NTD] 2nd High-Altitude Object Shot Down Over Alaska \| China In Focus (18:34, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Kj6pzqGyDZo/default.jpg)](https://www.youtube.com/watch?v=Kj6pzqGyDZo "[NTD Brasil] EUA derrubam outro objeto voador: tensões com China crescem após balão (8:48, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/x5jqDqEwMAg/default.jpg)](https://www.youtube.com/watch?v=x5jqDqEwMAg "[ARTE DA GUERRA] EUA: 850 bilhões de dólares por ano para derrubar balões e mendigar munições. (1:05:41, YouTube, 18/Fev/2023)") &nbsp;
+<!--- }}} -->
 
 &nbsp;
 </details>
@@ -403,18 +396,32 @@
 
 <details>
     <summary>
-        [07/Jul] Boris Johnson, primeiro-ministro do Reino Unido, anuncia sua renúncia.
+        [02/Ago] Nancy Pelosi, presidente da Câmara dos Deputados dos Estados Unidos, aterrisa em Taiwan em meio a tensão entre EUA e China.
     </summary><br>
 
 <!--- {{{ -->
+| | [![img](https://img.youtube.com/vi/jhmA2-zfA34/default.jpg)](https://www.youtube.com/watch?v=jhmA2-zfA34 "[CNN Brasil] Nancy Pelosi aterrissa em Taiwan em meio a tensão entre EUA e China \| LIVE CNN (10:25, YouTube, 02/Ago/2022)") | [![img](https://img.youtube.com/vi/3IQulYZOf74/default.jpg)](https://www.youtube.com/watch?v=3IQulYZOf74 "[BM&C NEWS] URGENTE: NANCY PELOSI POUSA NO AEROPORTO DE TAIWAN (9:31, YouTube, 02/Ago/2022)") &nbsp;
+| :-- | :-- |
+| Análises | [![img](https://img.youtube.com/vi/U2tBDxLMOFc/default.jpg)](https://www.youtube.com/watch?v=U2tBDxLMOFc "[ARTE DA GUERRA] Taiwan: avião de Pelosi pousa e desafia a China. (1:03:09, YouTube, 02/Ago/2022)") &nbsp;  
 
-| | [![img](https://img.youtube.com/vi/DD93FcN1qNQ/default.jpg)](https://www.youtube.com/watch?v=DD93FcN1qNQ "[CNN Brasil] Boris Johnson renuncia como primeiro-ministro do Reino Unido \| NOVO DIA (6:15, YouTube, 07/Jul/2022)")
-| :-: | :-- |
+[![img](https://img.youtube.com/vi/J-6mwuWeFcw/default.jpg)](https://www.youtube.com/watch?v=J-6mwuWeFcw "[CNN Brasil] Em visita a Taiwan, Nancy Pelosi reafirma apoio à democracia do país \| LIVE CNN (6:27, YouTube, 02/Ago/2022)") &nbsp;
+<!--- }}} -->
 
 &nbsp;
 </details>
 
+<details>
+    <summary>
+        [07/Jul] Boris Johnson, primeiro-ministro do Reino Unido, anuncia sua renúncia.
+    </summary><br>
+
+<!--- {{{ -->
+| | [![img](https://img.youtube.com/vi/DD93FcN1qNQ/default.jpg)](https://www.youtube.com/watch?v=DD93FcN1qNQ "[CNN Brasil] Boris Johnson renuncia como primeiro-ministro do Reino Unido \| NOVO DIA (6:15, YouTube, 07/Jul/2022)")
+| :-: | :-- |
 <!--- }}} -->
+
+&nbsp;
+</details>
 
 <details>
     <summary>
@@ -422,14 +429,14 @@
     </summary><br>
 
 <!--- {{{ -->
-
 | | [![img](https://img.youtube.com/vi/cHpMz4srpbE/default.jpg)](https://www.youtube.com/watch?v=cHpMz4srpbE "[euronews (em português)] Acompanhe a invasão russa da Ucrânia (11:54:59, YouTube, Fev/2022)") |
 | :-- | :-- |
+<!--- }}} -->
 
 &nbsp;
 </details>
 
-<!--- }}} -->
+&nbsp;
 
 ## 2019
 
@@ -442,16 +449,14 @@
         <strong>[02/Mar] Rússia invade e anexa a Criméia.</strong>
     </summary><br>
 
-<!--- {{{ -->
-
+<!---  {{{ -->
 | | [![img](https://img.youtube.com/vi/YR_cmn2qeck/default.jpg)](https://www.youtube.com/watch?v=YR_cmn2qeck "[ABC News] Russian Forces Officially Enter the Crimea Region of Ukraine (4:42, YouTube, 02/Mar/2014)")
 | :-: | :-- |
 | Análises<br>18/Mar/2019 | [![img](https://img.youtube.com/vi/7DISoeWEefI/default.jpg)](https://www.youtube.com/watch?v=7DISoeWEefI "[Al Jazeera English] O que a Rússia ganhou com a anexação da Crimeia? (23:55, YouTube, 18/Mar/2019)")
+<!--- }}} -->
 
 &nbsp;
 </details>
-
-<!--- }}} -->
 
 &nbsp;
 
