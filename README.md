@@ -15,6 +15,71 @@
 
 <details>
     <summary>
+        [21/Fev] Vladimir Putin faz um pronunciamento à nação Russa, anunciando uma suspensão da participação da Rússia no tratado de armas nucleares com os EUA.
+    </summary><br>
+
+<!--- {{{ --->
+| |
+| :-- |
+| [![img](https://img.youtube.com/vi/42ezWWcTqb0/default.jpg)](https://www.youtube.com/watch?v=42ezWWcTqb0 "[WION] Putin Live: Russian President Vladimir Putin's address to the nation \| Russia-Ukraine war live \| WION (2:21:15, YouTube, 21/Fev/2023)") &nbsp;
+| Análises |
+| [![img](https://img.youtube.com/vi/LpjknnRjahQ/default.jpg)](https://www.youtube.com/watch?v=LpjknnRjahQ "[WION] Russia to halt participation in New Start nuclear arms treaty \| WION Dispatch (6:43, YouTube, 21/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/ppv5LV52Ofg/default.jpg)](https://www.youtube.com/watch?v=ppv5LV52Ofg "[CNN Brasil] Análise: Putin suspendeu acordo nuclear com os EUA \| WW (39:26, YouTube, 21/Fev/2023)") &nbsp;
+| Repercussões |
+| [![img](https://img.youtube.com/vi/B2SJZPyKES8/default.jpg)](https://www.youtube.com/watch?v=B2SJZPyKES8 "[NTD Brasil] Coreia do Norte dispara mísseis; tensões entre EUA e China na Conferência de Segurança de Munique (9:49, YouTube, 21/Fev/2023)") &nbsp;
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [20/Fev] Presidente Joe Biden faz uma visita à Ucrânia.
+    </summary><br>
+
+<!--- {{{ --->
+| |
+| :-- |
+| [![img](https://img.youtube.com/vi/77YD99MYAi4/default.jpg)](https://www.youtube.com/watch?v=77YD99MYAi4 "[WION] Biden’s five hours in Kiev could spell disaster for Ukraine \| WION Game Plan (3:06, YouTube, 21/Fev/2023)") &nbsp;
+| Análises |
+| |
+| Repercussões |
+| [![img](https://img.youtube.com/vi/B2SJZPyKES8/default.jpg)](https://www.youtube.com/watch?v=B2SJZPyKES8 "[NTD Brasil] Coreia do Norte dispara mísseis; tensões entre EUA e China na Conferência de Segurança de Munique (9:49, YouTube, 21/Fev/2023)") &nbsp;
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [20/Fev] Mais dois mísseis balísticos disparados pela Coréia do Norte caem no mar do Japão.
+    </summary><br>
+
+<!--- {{{ --->
+| | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
+| :-: | :-- |
+| Análises |
+| Repercussões | [![img](https://img.youtube.com/vi/B2SJZPyKES8/default.jpg)](https://www.youtube.com/watch?v=B2SJZPyKES8 "[NTD Brasil] Coreia do Norte dispara mísseis; tensões entre EUA e China na Conferência de Segurança de Munique (9:49, YouTube, 21/Fev/2023)") &nbsp;
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [18/Fev] Míssil balístico intercontinental disparado pela Coréia do Norte cai no mar do Japão.
+    </summary><br>
+
+<!--- {{{ --->
+| | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
+| :-: | :-- |
+| Análises |
+
+<&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
         [15/Fev] Nicola Sturgeon, primeira ministra da Escócia, anuncia sua renuncia após oito anos de mandato.
     </summary><br>
 
@@ -22,10 +87,10 @@
 | | [![img](https://img.youtube.com/vi/xjjxZTiM3B4/default.jpg)](https://www.youtube.com/watch?v=xjjxZTiM3B4 "[Euronews em Português] Nicola Sturgeon demite-se de primeira-ministra da Escócia mas não da luta (1:01, YouTube, 15/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/eG0xT1JnqL8/default.jpg)](https://www.youtube.com/watch?v=eG0xT1JnqL8 "[DW Español] Sturgeon anunció su renuncia de forma sorpresiva (3:00, YouTube, 15/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises |
-<!--- }}} --->
 
 &nbsp;
 </details>
+<!--- }}} --->
 
 <details>
     <summary>
@@ -36,10 +101,10 @@
 | | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[] (2:05, YouTube, 13/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises | [![img](https://img.youtube.com/vi/$/default.jpg)](https://www.youtube.com/watch?v=$ "[$] (10:25, YouTube, 13/Fev/2023)") &nbsp;
-<!-- }}} -->
 
 &nbsp;
 </details>
+<!-- }}} -->
 
 <details>
     <summary>
@@ -50,10 +115,10 @@
 | | [![img](https://img.youtube.com/vi/fyajz2aBjFE/default.jpg)](https://www.youtube.com/watch?v=fyajz2aBjFE "[Euronews em Português] Stoltenberg diz que nova ofensiva russa na Ucrânia já começou (2:05, YouTube, 13/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Análises | [![img](https://img.youtube.com/vi/0mC8eGKHLtg/default.jpg)](https://www.youtube.com/watch?v=0mC8eGKHLtg "[caio o alemao] COMANDANTE SUPREMO DA OTAN : PERDAS NA UCRANIA ALEM DE NOSSAS EXPECTATIVAS !!!! (10:25, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/yaTn3lTrZ0w/default.jpg)](https://www.youtube.com/watch?v=yaTn3lTrZ0w "[ARTE DA GUERRA] Guerra na Ucrânia: munição é calcanhar de Aquiles da OTAN. (1:06:49, YouTube, 14/02/2023)") &nbsp;
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -64,10 +129,10 @@
 | | [![img](https://img.youtube.com/vi/RVh0J1RMjsM/default.jpg)](https://www.youtube.com/watch?v=RVh0J1RMjsM "[CNN Brasil] Estados Unidos, China e Uruguai registram objetos voadores não identificados \| CNN PRIME TIME (22:02, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
 | Repercussões | [![img](https://img.youtube.com/vi/9dwoqMjfoV8/default.jpg)](https://www.youtube.com/watch?v=9dwoqMjfoV8 "[CNN Brasil] Novos objetos abatidos têm formato diferente dos balões, detalha professor \| NOVO DIA (11:23, YouTube, 13/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/BYGckerOWzc/default.jpg)](https://www.youtube.com/watch?v=BYGckerOWzc "[SpaceToday] ATUALIZAÇÕES SOBRE OS OVNIS!!! GUERRA DE BALÕES ENTRE EUA E A CHINA PODEM EXPLICAR!!! (19:43, YouTube, 14/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/AdbM1vVUSAA/default.jpg)](https://www.youtube.com/watch?v=AdbM1vVUSAA "[Fox News] Biden is completely ill prepared and unwilling to act to protect America: Monica Crowley (10:51, YouTube, 18/Fev/2023)") &nbsp;
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -77,10 +142,10 @@
 <!--- {{{ -->
 | | [![img](https://img.youtube.com/vi/CRxl2R7aqKo/default.jpg)](https://www.youtube.com/watch?v=CRxl2R7aqKo "[CBS Sunday Morning] Another flying object shot down over Yukon territory (2:23, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -90,10 +155,10 @@
 <!--- {{{ -->
 | | [![img](https://img.youtube.com/vi/-BwQ0gpW0Ew/default.jpg)](https://www.youtube.com/watch?v=-BwQ0gpW0Ew "[CNN] Hear what pilots said about mysterious object shot down near Alaska (6:22, YouTube, 12/Fev/2023)") &nbsp;
 | :-: | :-- |
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -104,10 +169,10 @@
 | | [![img](https://img.youtube.com/vi/TjpQgJltUqw/default.jpg)](https://www.youtube.com/watch?v=TjpQgJltUqw "[China Focus-CNF] Accelerated delivery of lithography machines to China (9:22, YouTube, 10/Fev/2023)")
 | :-: | :-- |
 | Repercussões | [![img](https://img.youtube.com/vi/7vlnwKMHeSA/default.jpg)](https://www.youtube.com/watch?v=7vlnwKMHeSA "[China Focus-CNF] Locking up China's 14nm chip technology? (9:24, YouTube, 12/Fev/2023)") &nbsp;
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -117,10 +182,10 @@
 <!--- {{{ -->
 | | [![img](https://img.youtube.com/vi/BpKB0n4Xdug/default.jpg)](https://www.youtube.com/watch?v=BpKB0n4Xdug "[CNN Brasil] Zelensky se reúne com líderes europeus e pede ajuda à Ucrânia \| CNN PRIME TIME (3:24, YouTube, 08/Fev/2023)") &nbsp;
 | :-- | :-- |
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
@@ -133,10 +198,10 @@
 | :-- | :-- |
 | Análises<br>04/02/2023 | [![img](https://img.youtube.com/vi/rcaOtzTvKlA/default.jpg)](https://www.youtube.com/watch?v=rcaOtzTvKlA "[Hoje no Mundo Militar] Balão espião chinês sobre base norte-americana de mísseis nucleares? (7:04, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Rr3GTXXmN2g/default.jpg)](https://www.youtube.com/watch?v=Rr3GTXXmN2g "[WION] Gravitas LIVE: 'Chinese Spy Balloon' spotted over U.S. \| Is China's espionage entering next phase? (45:32, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/i0CJrznP7WQ/default.jpg)](https://www.youtube.com/watch?v=i0CJrznP7WQ "[ARTE DA GUERRA] O erro fundamental dos Estados Unidos em relação à China. (1:33:00, YouTube, 03/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/3vZBnlDTor0/default.jpg)](https://www.youtube.com/watch?v=3vZBnlDTor0 "[ARTE DA GUERRA] Segundo balão espião chinês aparece na América Latina. (1:31:35, YouTube, 04/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/TT4IAgczaWo/default.jpg)](https://www.youtube.com/watch?v=TT4IAgczaWo "[DW News] US shoots down Chinese spy balloon \| DW News (5:50, YouTube, 04/Fev/2023)")
 | Repercussões<br>18/Fev/2023 | [![img](https://img.youtube.com/vi/BGiY_qPoNzI/default.jpg)](https://www.youtube.com/watch?v=BGiY_qPoNzI "[China in Focus - NTD] 2nd High-Altitude Object Shot Down Over Alaska \| China In Focus (18:34, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/Kj6pzqGyDZo/default.jpg)](https://www.youtube.com/watch?v=Kj6pzqGyDZo "[NTD Brasil] EUA derrubam outro objeto voador: tensões com China crescem após balão (8:48, YouTube, 11/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/x5jqDqEwMAg/default.jpg)](https://www.youtube.com/watch?v=x5jqDqEwMAg "[ARTE DA GUERRA] EUA: 850 bilhões de dólares por ano para derrubar balões e mendigar munições. (1:05:41, YouTube, 18/Fev/2023)") &nbsp;
-<!--- }}} -->
 
 &nbsp;
 </details>
+<!--- }}} -->
 
 <details>
     <summary>
