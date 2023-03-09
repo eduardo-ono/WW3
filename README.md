@@ -6,8 +6,20 @@
 
 <p align="center">
     <a href="https://www.nationsonline.org/maps/Ukraine-Map-L.jpg" target="_blank"><img src="https://www.nationsonline.org/maps/Ukraine-Map-L.jpg" alt="img" width="360px"/></a><br>
-    <sub>Fonte: https://www.nationsonline.org/oneworld/map/ukraine-political-map.htm</sub>
+    <sub>Fonte: <a href="https://www.nationsonline.org/oneworld/map/ukraine-political-map.htm" target="_blank">https://www.nationsonline.org/oneworld/map/ukraine-political-map.htm</a></sub>
 </p>
+
+&nbsp;
+
+## Descrição
+
+* Registro de análises e repercussões dos principais eventos que desencadearam a WW3.
+
+&nbsp;
+
+## Recursos
+
+* Mapa estratégico: <a href="https://liveuamap.com/pt" target="_blank">https://liveuamap.com/pt</a>
 
 &nbsp;
 
@@ -15,7 +27,73 @@
 
 <details>
     <summary>
-        [21/Fev] Vladimir Putin faz um pronunciamento à nação Russa, anunciando uma suspensão da participação da Rússia no tratado de armas nucleares com os EUA.
+        [09/Mar] Rússia lança mísseis hipersônicos contra a infraestrutura e áreas residenciais da Ucrânia. Usina nuclear fica sem enegia.
+    </summary><br>
+
+<!--- {{{ --->
+| Evento | [![img](https://img.youtube.com/vi/8Lba5mxYIYw/default.jpg)](https://www.youtube.com/watch?v=8Lba5mxYIYw "[Hoje no Mundo Militar] Boletim de Guerra - Rússia lança mísseis hipersônicos contra a Ucrânia (4:34, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/udPI9RzAIrM/default.jpg)](https://www.youtube.com/watch?v=udPI9RzAIrM "[Euronews em Português] Ataque maciço de mísseis russos atinge cidades ucranianas (1:36, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/UTI2aJSV4l0/default.jpg)](https://www.youtube.com/watch?v=UTI2aJSV4l0 "[WION] 6 killed in missile strikes as Russia pummels Ukraine with an array of high-tech weaponry \| WION (7:28, YouTube, 09/Mar/2023)") &nbsp;
+| :-: | :-- |
+| Análises |
+| Repercussões |
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [07/Mar] Xi Jinping condena "repressão" ocidental contra a China.
+    </summary><br>
+
+<!--- {{{ --->
+| |
+| :-- |
+| [![img](https://img.youtube.com/vi/FBj9_25g6Rk/default.jpg)](https://www.youtube.com/watch?v=FBj9_25g6Rk "[AFP Português] Xi Jinping condena 'repressão' ocidental contra a China \| AFP (2:21, YouTube, 07/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/k4sIJZcA8uY/default.jpg)](https://www.youtube.com/watch?v=k4sIJZcA8uY "[CNN Brasil] Chanceler chinês alerta para risco de conflito com EUA \| CNN NOVO DIA (3:45, YouTube, 07/Mar/2023)") &nbsp;
+| Análises |
+ Repercussões |
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [28/Fev] Ucrânia atinge o interior da Rússia usando seu "novo" drone com 800 km de alcance.
+    </summary><br>
+
+<!--- {{{ --->
+| |
+| :-- |
+| [![img](https://img.youtube.com/vi/kMrGxddvsmA/default.jpg)](https://www.youtube.com/watch?v=kMrGxddvsmA "[Global Politik] Ucrânia atinge o interior da Rússia usando seu \"novo\" drone com 800 KM de alcance (4:39, YouTube, 28/Fev/2023)") &nbsp;
+| Análises |
+| [![img](https://img.youtube.com/vi/k3kk2PuSN9w/default.jpg)](https://www.youtube.com/watch?v=k3kk2PuSN9w "[Rogério Anitablian] ÚLTIMA HORA: ATAQUE DE DRONES CONTRA RÚSSIA (30:00, YouTube, 28/Fev/2023)") &nbsp;
+| Repercussões |
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [24/Fev] Guerra entre Rússia e Ucrânia completa um ano.
+    </summary><br>
+
+<!--- {{{ --->
+| |
+| :-- |
+|
+| Análises |
+| [![img](https://img.youtube.com/vi/6ptoX54rC3o/default.jpg)](https://www.youtube.com/watch?v=6ptoX54rC3o "[ARTE DA GUERRA] UCRÂNIA : um ano de conflito, com o GENERAL AGOSTINHO COSTA (2:15:15, YouTube, 24/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/DoH6fu0TbJU/default.jpg)](https://www.youtube.com/watch?v=DoH6fu0TbJU "[Jovem Pan News] FAST NEWS - 24/02/2023 (2:01:30, YouTube, 28/Fev/2023)") &nbsp;
+|  Repercussões |
+| [![img](https://img.youtube.com/vi/tWCkDwaEqec/default.jpg)](https://www.youtube.com/watch?v=tWCkDwaEqec "[WION] Gravitas: How much money has the world given to Ukraine? (6:30, YouTube, 28/Fev/2023)") &nbsp;
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [21/Fev] Vladimir Putin faz um pronunciamento à nação Russa e anunciao a suspensão da participação da Rússia no tratado de armas nucleares com os EUA.
     </summary><br>
 
 <!--- {{{ --->
@@ -25,7 +103,7 @@
 | Análises |
 | [![img](https://img.youtube.com/vi/LpjknnRjahQ/default.jpg)](https://www.youtube.com/watch?v=LpjknnRjahQ "[WION] Russia to halt participation in New Start nuclear arms treaty \| WION Dispatch (6:43, YouTube, 21/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/ppv5LV52Ofg/default.jpg)](https://www.youtube.com/watch?v=ppv5LV52Ofg "[CNN Brasil] Análise: Putin suspendeu acordo nuclear com os EUA \| WW (39:26, YouTube, 21/Fev/2023)") &nbsp;
 | Repercussões |
-| [![img](https://img.youtube.com/vi/B2SJZPyKES8/default.jpg)](https://www.youtube.com/watch?v=B2SJZPyKES8 "[NTD Brasil] Coreia do Norte dispara mísseis; tensões entre EUA e China na Conferência de Segurança de Munique (9:49, YouTube, 21/Fev/2023)") &nbsp;
+| [![img](https://img.youtube.com/vi/B2SJZPyKES8/default.jpg)](https://www.youtube.com/watch?v=B2SJZPyKES8 "[NTD Brasil] Coreia do Norte dispara mísseis; tensões entre EUA e China na Conferência de Segurança de Munique (9:49, YouTube, 21/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/0bGJ-gx5tEw/default.jpg)](https://www.youtube.com/watch?v=0bGJ-gx5tEw "[Survivalist Prepper] Would Russia Nuke Yellowstone!? And How Does This End? (13:07, YouTube, 24/Fev/2023)") &nbsp;
 
 &nbsp;
 </details>
@@ -432,7 +510,7 @@
 | | [![img](https://img.youtube.com/vi/2M8G8b_DcxE/default.jpg)](https://www.youtube.com/watch?v=2M8G8b_DcxE "[AFP Português] Explosões foram registradas antes de vazamentos de gás \| AFP (2:13, YouTube, Set/2022)")
 | :-: | :-- |
 | Análises<br>04/Fev/2023 | [![img](https://img.youtube.com/vi/h6iovqU61Bw/default.jpg)](https://www.youtube.com/watch?v=h6iovqU61Bw "[Hoje no Mundo Militar] A quem interessa a destruição do gasoduto russo Nord Stream? (9:28, YouTube, Set/2022)") &nbsp; [![img](https://img.youtube.com/vi/wgb5X06uzp0/default.jpg)](https://www.youtube.com/watch?v=wgb5X06uzp0 "[caio o alemao] POR QUE A GENTE AINDA NAO SABE ??? QUEM EXPLODIU OS GASODUTOS NORD STREAM ??? (8:15, YouTube, 04/Fev/2023)")
-| Repercussões | [![img](https://img.youtube.com/vi/K1SIr7-HxdA/default.jpg)](https://www.youtube.com/watch?v=K1SIr7-HxdA "[Redacted] How America Blew Up The Nord Stream Pipeline | Redacted with Natali and Clayton Morris (29:08, YouTube, 08/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/nOBi5XSp6rA/default.jpg)](https://www.youtube.com/watch?v=nOBi5XSp6rA "[WION] Russia: US should pay compensation to countries affected \| Latest World News \| Top News \| WION (3:17, YouTube, 09/Fev/2023)") &nbsp;
+| Repercussões | [![img](https://img.youtube.com/vi/K1SIr7-HxdA/default.jpg)](https://www.youtube.com/watch?v=K1SIr7-HxdA "[Redacted] How America Blew Up The Nord Stream Pipeline | Redacted with Natali and Clayton Morris (29:08, YouTube, 08/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/nOBi5XSp6rA/default.jpg)](https://www.youtube.com/watch?v=nOBi5XSp6rA "[WION] Russia: US should pay compensation to countries affected \| Latest World News \| Top News \| WION (3:17, YouTube, 09/Fev/2023)") &nbsp; [![img](https://img.youtube.com/vi/aDqr8fLZYsI/default.jpg)](https://www.youtube.com/watch?v=aDqr8fLZYsI "[DW News] Nord Stream: New leads about who was responsible for blowing up the gas pipelines \| DW News (8:53, YouTube, 07/Mar/2023)") &nbsp;
 
 &nbsp;
 </details>
