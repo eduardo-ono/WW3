@@ -31,7 +31,7 @@
     </summary><br>
 
 <!--- {{{ --->
-| Evento | [![img](https://img.youtube.com/vi/sgpBiTsLq6Y/default.jpg)](https://www.youtube.com/watch?v=sgpBiTsLq6Y"[WION] Russia claims Ukraine attempted Putin's Assassination, 2 drones down \| World News \| WION (7:30, YouTube, 03/Mai/2023)") &nbsp;
+| Evento | [![img](https://img.youtube.com/vi/sgpBiTsLq6Y/default.jpg)](https://www.youtube.com/watch?v=sgpBiTsLq6Y "[WION] Russia claims Ukraine attempted Putin's Assassination, 2 drones down \| World News \| WION (7:30, YouTube, 03/Mai/2023)") &nbsp;
 | :-: | :-- |
 | Análises | [![img](https://img.youtube.com/vi/zrQBoyQcJds/default.jpg)](https://www.youtube.com/watch?v=zrQBoyQcJds "[ARTE DA GUERRA] Drones: Ucrânia ataca no coração da Rússia! (::, YouTube, 03/Mai/2023)") &nbsp;
 | Repercussões |
