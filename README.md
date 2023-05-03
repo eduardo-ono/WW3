@@ -27,13 +27,43 @@
 
 <details>
     <summary>
-        [09/Mar] Rússia lança mísseis hipersônicos contra a infraestrutura e áreas residenciais da Ucrânia. Usina nuclear fica sem enegia.
+        [03/Mai] Kremlin sofre ataque de drones.
     </summary><br>
 
 <!--- {{{ --->
-| Evento | [![img](https://img.youtube.com/vi/8Lba5mxYIYw/default.jpg)](https://www.youtube.com/watch?v=8Lba5mxYIYw "[Hoje no Mundo Militar] Boletim de Guerra - Rússia lança mísseis hipersônicos contra a Ucrânia (4:34, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/udPI9RzAIrM/default.jpg)](https://www.youtube.com/watch?v=udPI9RzAIrM "[Euronews em Português] Ataque maciço de mísseis russos atinge cidades ucranianas (1:36, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/UTI2aJSV4l0/default.jpg)](https://www.youtube.com/watch?v=UTI2aJSV4l0 "[WION] 6 killed in missile strikes as Russia pummels Ukraine with an array of high-tech weaponry \| WION (7:28, YouTube, 09/Mar/2023)") &nbsp;
+| Evento | [![img](https://img.youtube.com/vi/sgpBiTsLq6Y/default.jpg)](https://www.youtube.com/watch?v=sgpBiTsLq6Y"[WION] Russia claims Ukraine attempted Putin's Assassination, 2 drones down \| World News \| WION (7:30, YouTube, 03/Mai/2023)") &nbsp;
+| :-: | :-- |
+| Análises | [![img](https://img.youtube.com/vi/zrQBoyQcJds/default.jpg)](https://www.youtube.com/watch?v=zrQBoyQcJds "[ARTE DA GUERRA] Drones: Ucrânia ataca no coração da Rússia! (::, YouTube, 03/Mai/2023)") &nbsp;
+| Repercussões |
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [20/Mar] Banco Credit Suisse é comprado pelo UBS por U$$ 3,2 bilhões.
+    </summary><br>
+
+<!--- {{{ --->
+| Evento | [![img](https://img.youtube.com/vi/QmVsODmlpjY/default.jpg)](https://www.youtube.com/watch?v=QmVsODmlpjY "[BM&C NEWS] COMPRA DO CREDIT SUISSE PELO UBS DERRUBA VALOR DAS AÇÕES (3:43, YouTube, 20/Mar/2023)") &nbsp;
 | :-: | :-- |
 | Análises |
+| Repercussões |
+
+&nbsp;
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
+        [09/Mar] Rússia retoma bombardeios em larga escala e lança mísseis hipersônicos Kinzhal contra a infraestrutura e áreas residenciais da Ucrânia. Usina nuclear em Zaporizhia fica sem enegia.
+    </summary><br>
+
+<!--- {{{ --->
+| Evento | [![img](https://img.youtube.com/vi/8Lba5mxYIYw/default.jpg)](https://www.youtube.com/watch?v=8Lba5mxYIYw "[Hoje no Mundo Militar] Boletim de Guerra - Rússia lança mísseis hipersônicos contra a Ucrânia (4:34, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/udPI9RzAIrM/default.jpg)](https://www.youtube.com/watch?v=udPI9RzAIrM "[Euronews em Português] Ataque maciço de mísseis russos atinge cidades ucranianas (1:36, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/UTI2aJSV4l0/default.jpg)](https://www.youtube.com/watch?v=UTI2aJSV4l0 "[WION] 6 killed in missile strikes as Russia pummels Ukraine with an array of high-tech weaponry \| WION (7:28, YouTube, 09/Mar/2023)") &nbsp; [![img](https://img.youtube.com/vi/UByc0tElm3k/default.jpg)](https://www.youtube.com/watch?v=UByc0tElm3k "[WION] Gravitas \| Battle for Bakhmut: Russia uses hypersonic missiles in Ukraine (7:12, YouTube, 09/Mar/2023)") &nbsp;
+| :-: | :-- |
+| Análises | [![img](https://img.youtube.com/vi/zFTrbhdRjwg/default.jpg)](https://www.youtube.com/watch?v=zFTrbhdRjwg "[Redacted] Putin just changed EVERYTHING with this move and NATO can't do anything \| Redacted w Clayton Morris (16:35, YouTube, 09/Mar/2023)") &nbsp;
 | Repercussões |
 
 &nbsp;
