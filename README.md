@@ -27,6 +27,22 @@
 
 <details>
     <summary>
+        [04/Jun] Ucrânia dá início a sua contra-ofensiva.
+    </summary><br>
+
+<!--- {{{ --->
+| Evento | &nbsp;
+| :-: | :-- |
+| Análises | &nbsp;
+| Repercussões |
+
+&nbsp;
+
+</details>
+<!--- }}} --->
+
+<details>
+    <summary>
         [03/Mai] Kremlin sofre ataque de drones.
     </summary><br>
 
